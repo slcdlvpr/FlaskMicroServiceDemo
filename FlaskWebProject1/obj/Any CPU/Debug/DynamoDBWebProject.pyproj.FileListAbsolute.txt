@@ -1,0 +1,1 @@
+C:\Users\wnelson\source\repos\FlaskWebProject1\FlaskWebProject1\obj\Any CPU\Debug\DynamoDBWebProject.pyproj.CoreCompileInputs.cache
